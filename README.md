@@ -4,6 +4,8 @@ A Python-based GUI to interface and display **real-time systemperformance metric
   - **Nvidia NVML** (GPU Utilization, VRAM, Power, Temperature, etc.)
   - **Intel PresentMon** (Frame Times, GPU Busy per frame)
   - **psutil** (CPU usage, CPU interrupts, RAM usage, process monitoring)
+    
+<img width="3116" height="1437" alt="image" src="https://github.com/user-attachments/assets/f9960684-20e3-42dc-974f-f2cc6e9d77fd" />
 
 ## About.
 
