@@ -24,5 +24,6 @@ pip install psutil matplotlib pynvml
 python main.py
 ```
 
-## Bugs
+## Bugs / Issues
 - Sometimes PresentMon doesn't want to start, i've found that restarting your computer will usually fix this.
+- Currently only Nvidia GPU's are supported, but I've seen that there are drop in replacements for NVML if you would like to use an AMD GPU.
