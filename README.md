@@ -1,4 +1,4 @@
-# GPU-System-Performance-Analysis-Tool.
+# GPU-CPU-System-Performance-Analysis-Tool
 
 A Python-based GUI to interface and display **real-time systemperformance metrics** from: 
   - **Nvidia NVML** (GPU Utilization, VRAM, Power, Temperature, etc.)
